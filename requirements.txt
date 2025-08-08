@@ -1,11 +1,8 @@
 streamlit
-opencv-python
-tensorflow
-keras
-Pillow
 streamlit-webrtc
-av
-streamlit==1.48.0
-opencv-python
-streamlit-webrtc
+opencv-python-headless
 numpy
+keras
+tensorflow
+Pillow
+av
